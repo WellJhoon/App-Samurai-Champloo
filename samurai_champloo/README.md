@@ -2,55 +2,26 @@
 
 A new Flutter project.
 
-## Getting Started
+Requisitos previos
+Antes de ejecutar este proyecto, asegúrate de tener los siguientes requisitos previos:
 
-This project is a starting point for a Flutter application.
+Flutter SDK instalado. Puedes obtenerlo siguiendo las instrucciones en flutter.dev.
+Un dispositivo/emulador Android o iOS configurado para ejecutar la aplicación.
 
-A few resources to get you started if this is your first Flutter project:
+git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/WellJhoon/App-Samurai-Champloo.git)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Navega al directorio del proyecto:
+cd samurai_champloo
 
-Cómo ejecutar un proyecto Flutter
-Estas instrucciones te guiarán a través de los pasos necesarios para ejecutar un proyecto Flutter en tu máquina local.
-
-Prerrequisitos
-Antes de comenzar, asegúrate de tener instalado lo siguiente en tu sistema:
-
-Flutter SDK: Visita flutter.dev para obtener instrucciones sobre cómo instalar Flutter en tu sistema operativo.
-Un editor de código: Puedes usar Visual Studio Code, Android Studio u otro editor de tu elección.
-Dispositivo o emulador: Debes tener un dispositivo físico conectado a tu computadora o un emulador configurado.
-Pasos
-Clona el repositorio
-
-bash
-Copy code
-git clone <URL_DEL_REPOSITORIO>
-Abre el proyecto en tu editor de código
-
-Abre el directorio del proyecto en tu editor de código preferido.
-
-Instala las dependencias
-
-Abre una terminal en la raíz del proyecto y ejecuta el siguiente comando para instalar todas las dependencias requeridas:
-
-arduino
-Copy code
+Ejecuta el siguiente comando para obtener las dependencias:
 flutter pub get
-Inicia un emulador o conecta un dispositivo físico
 
-Asegúrate de tener un emulador de Android abierto o conecta un dispositivo físico a tu computadora. Asegúrate de que el dispositivo esté configurado para la depuración USB.
+Asegúrate de tener un dispositivo/emulador Android o iOS configurado y conectado.
 
-Ejecuta la aplicación
+Ejecuta la aplicación:
 
-Ejecuta el siguiente comando en la terminal para compilar y ejecutar la aplicación en el dispositivo o emulador seleccionado:
-
-arduino
-Copy code
 flutter run
-Esto iniciará la compilación y ejecución del proyecto Flutter en tu dispositivo o emulador.
 
-¡Listo!
 
 Ahora deberías ver la aplicación Flutter ejecutándose en tu dispositivo o emulador. ¡Disfruta explorando tu proyecto!
 
